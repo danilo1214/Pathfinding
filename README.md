@@ -41,3 +41,7 @@ Where algorithm is:
 - DFS
 - BFS
 - As
+
+## Preequisites
+
+You need to have java installed.
