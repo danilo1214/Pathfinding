@@ -40,4 +40,4 @@ Where algorithm is:
 - Greedy
 - DFS
 - BFS
-- Astar
+- As
