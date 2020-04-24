@@ -31,7 +31,7 @@ The app reads simple .txt files - which consist of **n** rows and **n** columns.
 For an example - check out "labyrinth_1.txt" in the src folder.
 
 ## Run the app
-From the root folder of the app:
+From the root folder of the app:  
 `cd src`  
 `javac Main.java`  
 `java Main [maze_path] [algorithm]`  
