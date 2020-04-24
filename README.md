@@ -32,9 +32,9 @@ For an example - check out "labyrinth_1.txt" in the src folder.
 
 ## Run the app
 From the root folder of the app:
-`cd src`
-`javac Main.java`
-`java Main [maze_path] [algorithm]`
+`cd src`  
+`javac Main.java`  
+`java Main [maze_path] [algorithm]`  
 
 Where algorithm is:
 - Greedy
