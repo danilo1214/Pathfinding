@@ -34,7 +34,7 @@ For an example - check out "labyrinth_1.txt" in the src folder.
 From the root folder of the app:  
 `cd src`  
 `javac Main.java`  
-`java Main [maze_path] [algorithm]`  
+`java Main [maze_file_path] [algorithm]`  
 
 Where algorithm is:
 - Greedy
