@@ -13,7 +13,7 @@ and different algorithms such as:
 - DFS
 - BFS
 
-to solve practical issues, such as finding a path from the start of the maze to the "goal".
+to solve practical issues, such as finding a path from the start of the maze to the "goal". It is also made to demonstrate how effective Java can be, with an OOP approach to solving this problem.
 
 ![An example maze and a solution](maze.png)
 
